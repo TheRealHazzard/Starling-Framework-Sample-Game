@@ -1,4 +1,4 @@
-Submarine Game
+Ship Game
 ==============
 A Sample Game created for the Starling Framework where GPU is used for improved Performance. We are not utilizing a framework like Citrus as this is a simple barebones game to demonstrate how the Starling Framework can be used in order to demonstrate a tutorial for the game development course. Certain higher resolution bitmaps are used.
 
